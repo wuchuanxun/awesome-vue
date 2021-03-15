@@ -1213,6 +1213,7 @@ _Tables / data grids_
 - [bee-grid-table](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
+- [x-data-grid](https://github.com/wuchuanxun/x-data-grid) - Vue data grid with pagination, editing, sorting, cell editing etc
 
 #### Notification
 
